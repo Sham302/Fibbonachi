@@ -1,7 +1,7 @@
 package com.spartaglobal.fibonacchi;
 
 public class Fibonacchi {
-    public static void loop(int count) {
+    public void loop(int count) {
 
         int a = 0, b = 1, c;
 
